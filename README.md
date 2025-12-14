@@ -2,17 +2,17 @@
 
 # EcoTrack
 
-EcoTrack is an intelligent system designed to help users **understand, track, and reduce vehicle-based carbon emissions** with minimal manual effort.
-By combining **vehicle scanning, sensor-based distance tracking, emission analytics, and personalized insights**, EcoTrack empowers individuals to make **greener travel choices effortlessly**.
+EcoTrack is smart Carban Footprint reduction sustem designed to help users understand, track, and reduce vehicle-based carbon emissions with minimal manual effort.
+By combining vehicle scanning, sensor-based distance tracking, emission analytics, and personalized insights, EcoTrack empowers individuals to make greener travel choices effortlessly.
 
-This repository contains a **working prototype** developed to demonstrate the concept, architecture, and feasibility of the solution. Advanced features are part of the extended design and future scope.
+This repository contains a working prototype developed to demonstrate the concept, architecture, and feasibility of the solution. Advanced features are part of the extended design and future scope.
 
  
 
 ## Problem Statement 
 
-Most individuals are unaware of how much carbon their daily travel produces. Existing solutions either require **manual data entry**, lack personalization, or fail to translate emissions into **actionable insights**.
-EcoTrack bridges this gap by **automating data capture** and converting emissions into **clear feedback and suggestions**.
+Most individuals are unaware of how much carbon their daily travel produces. Existing solutions either require manual data entry, lack personalization, or fail to translate emissions into actionable insights.
+EcoTrack bridges this gap by automating data capture and converting emissions into clear feedback and suggestions.
 
  
 
@@ -37,7 +37,7 @@ EcoTrack bridges this gap by **automating data capture** and converting emission
 
   * Distance traveled
   * Ride-level activity
-* Enables near **zero-interaction tracking**
+* Enables near zero-interaction tracking
 
  
 
